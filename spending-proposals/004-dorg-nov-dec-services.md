@@ -2,7 +2,7 @@
 
 | Funds Requested | Time Period | Estimated Effort |
 |-|-|-|
-| $60,000 + 300 `W3API` | Nov 1 - Dec 31, 2020 | 3.50 FTEs (1232 hrs) |
+| $55,000 + 275 `W3API` | Nov 1 - Dec 31, 2020 | 3.2 FTEs (1132 hrs) |
 
 ## Summary
 
@@ -27,7 +27,7 @@ NOTE: We'll be updating this deliverable log before each month's payout proposal
 
 ### November
 
-### Tech - 2.00 FTEs (336 hrs)
+### Tech - 1.70 FTEs (286 hrs)
 1. [Web3API JS Client Browser Support (~80% Complete)](https://github.com/Web3-API/prototype/issues/28)  
 2. [Web3API Manifest's Schema Tooling (~90% Complete)](https://github.com/Web3-API/prototype/issues/17)  
 3. [JavaScript Web3API (~95% Complete)](https://github.com/Web3-API/prototype/issues/59)  
@@ -60,7 +60,7 @@ NOTE: We'll be updating this deliverable log before each month's payout proposal
 
 ### December 
 
-### Tech - 2.00 FTEs (368 hrs)
+### Tech - 1.70 FTEs (318 hrs)
 
 TBD
 
