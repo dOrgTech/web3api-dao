@@ -1,2 +1,13 @@
 Address,Minted (W3API),Spending Proposal,Payment Proposal
-"0xB1B7586656116D546033e3bAFF69BFcD6592225E",27.14,"../spending-proposals/001-dorg-october-services.md","https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/26/"
+"0xB1B7586656116D546033e3bAFF69BFcD6592225E",27.14,"https://github.com/Web3-API/dao/blob/master/spending-proposals/001-dorg-october-services.md","https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/26/"
+"0x7f3A152F09324f2aee916CE069D3908603449173",3.76,"https://github.com/Web3-API/dao/blob/master/spending-proposals/001-dorg-october-services.md","https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/27/"
+"0x61FfE691821291D02E9Ba5D33098ADcee71a3a17",2.82,"https://github.com/Web3-API/dao/blob/master/spending-proposals/001-dorg-october-services.md","https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/28/"
+"0x639749b7b08aEe65039c21d8a411103C6ceBEBF0",5.46,"https://github.com/Web3-API/dao/blob/master/spending-proposals/001-dorg-october-services.md","https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/29/"
+"0x58B753F0c417494226Af608B63E80028255CBc64",2.35,"https://github.com/Web3-API/dao/blob/master/spending-proposals/001-dorg-october-services.md","https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/30/"
+"0x37341cbb14c5F128A70B149726ad8B2CE6F4C793",6.77,"https://github.com/Web3-API/dao/blob/master/spending-proposals/001-dorg-october-services.md","https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/31/"
+"0xAa01DeC5307CF17F20881A3286dcaA062578cea7",1.13,"https://github.com/Web3-API/dao/blob/master/spending-proposals/001-dorg-october-services.md","https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/32/"
+"0xa13Ee4362f171B5c62be230E5EB2fEe8C375b875",0.57,"https://github.com/Web3-API/dao/blob/master/spending-proposals/001-dorg-october-services.md","https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/33/"
+,,,
+,,,
+Total (W3API),Minted (W3API), Unminted (W3API)
+12000,50,11950
