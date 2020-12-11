@@ -1,8 +1,8 @@
 # dOrg November + December Services
 
-| Funds Requested | Time Period | Estimated Effort |
-|-|-|-|
-| $55,000 + 275 `W3API` | Nov 1 - Dec 31, 2020 | 3.2 FTEs (1132 hrs) |
+| Funds Requested | Time Period | Estimated Effort | Effective Rate |
+|-|-|-|-|
+| $43,050 + 215.25 `W3API` | Nov 1 - Dec 31, 2020 | 2.5 FTEs (861 hrs) | ~50 $/hr + ~0.25 `W3API`/hr |
 
 ## Summary
 
@@ -27,7 +27,7 @@ NOTE: We'll be updating this deliverable log before each month's payout proposal
 
 ### November
 
-### Tech - 1.70 FTEs (286 hrs)
+### Tech - 1 FTEs (154 hrs)
 1. [Web3API JS Client Browser Support](https://github.com/Web3-API/prototype/issues/28)  
     * [Ongoing - ~90% Complete](https://github.com/Web3-API/prototype/commits/issue-28?since=2020-11-01&until=2020-12-01)
       * MsgPack Nullable Value Support
@@ -57,7 +57,7 @@ NOTE: We'll be updating this deliverable log before each month's payout proposal
     * Initial sanitization happening through schema-parser & schema-composer.
     * A project for defining new sanitization rules still needs to be created.
 
-### DAO Ops - 1.50 FTEs (252 hrs)
+### DAO Ops - 0.75 FTEs (112.6 hrs)
 
 1. Bookkeeping ([done](https://github.com/Web3-API/dao/tree/master/token-allocations))
 2. Launch partners ([Fleek, Abridged, Mantra DAO, Rockside, Torus, Pocket Network, Gnosis, dxDAO, Squad Games](https://web3api.dev/))
@@ -85,12 +85,29 @@ NOTE: We'll be updating this deliverable log before each month's payout proposal
 
 ### Tech - 1.70 FTEs (318 hrs)
 
-TBD
+1. [Web3API JS Client Browser Support (~90% Complete)](https://github.com/Web3-API/prototype/issues/28)  
+1. [Cross Module Dependencies (~90% Complete)](https://github.com/Web3-API/prototype/issues/41)  
+1. [Two Way Data Type Marshalling Between Client & WASM (~90% Complete)](https://github.com/Web3-API/prototype/issues/27)  
+1. [Web3API Schema Sanitization (~20% Complete)](https://github.com/Web3-API/prototype/issues/61)  
+1. Weekly update call for the above deliverables
 
 ### DAO Ops - 1.50 FTEs (276 hrs)
 
-TBD
-
+1. Bookkeeping
+1. Launch partners
+1. Fundraising
+1. Improved DAO onboarding funnel
+1. Established and managed comms channels:
+    - Telegram Public Announcements Channel
+    - Telegram DAO Chat
+    - Keybase Builders Chat
+    - Substack Newsletter
+    - Twitter
+1. Standardized call schedule
+    - Weekly DAO Ops call
+    - Biweekly individual partner calls (awaiting pre-alpha)
+1. Published Web3API Problem / Solution Article
+1. Landing page changes
 
 ## Fund Distribution
 All stable coins will be sent to the dOrg DAO @ 0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6.
@@ -100,15 +117,15 @@ All `W3API` will be sent to individual builders:
 **November:**
 | Name | W3API | Address |
 |-|-|-|
-| [Jordan](https://github.com/dOrgJelli) | 68.08 | 0xB1B7586656116D546033e3bAFF69BFcD6592225E |  
-| [Nestor](https://github.com/namesty) | 1.03 | 0x2e7f4dd3acd226ddae10246a45337f815cf6b3ff |  
-| [Cesar](https://github.com/cbrzn) | 10.32 | 0x61ffe691821291d02e9ba5d33098adcee71a3a17 |  
-| [Ori](https://github.com/orishim) | 9.03 | 0x639749b7b08aee65039c21d8a411103c6cebebf0 |  
-| [Ingamar](https://twitter.com/Ingalandia) | 23.72 | 0x58b753f0c417494226af608b63e80028255cbc64 |  
-| [Roberto](https://github.com/rihp) | 16.50 | 0x37341cbb14c5f128a70b149726ad8b2ce6f4c793 |  
-| Bernie | 0.52 | 0xf6bd8c23142533661d67dc2c724e12c6f43f5b1c |  
-| [Phil](https://github.com/PhilH) | 3.61 | 0xaa01dec5307cf17f20881a3286dcaa062578cea7 |  
-| Alex | 4.69 | 0xa13Ee4362f171B5c62be230E5EB2fEe8C375b875 |  
+| [Jordan](https://github.com/dOrgJelli) | 33.00 | 0xB1B7586656116D546033e3bAFF69BFcD6592225E |  
+| [Nestor](https://github.com/namesty) | 0.05 | 0x2e7f4dd3acd226ddae10246a45337f815cf6b3ff |  
+| [Cesar](https://github.com/cbrzn) | 5.00 | 0x61ffe691821291d02e9ba5d33098adcee71a3a17 |  
+| [Ori](https://github.com/orishim) | 4.38 | 0x639749b7b08aee65039c21d8a411103c6cebebf0 |  
+| [Ingamar](https://twitter.com/Ingalandia) | 11.50 | 0x58b753f0c417494226af608b63e80028255cbc64 |  
+| [Roberto](https://github.com/rihp) | 8.00 | 0x37341cbb14c5f128a70b149726ad8b2ce6f4c793 |  
+| Bernie | 0.25 | 0xf6bd8c23142533661d67dc2c724e12c6f43f5b1c |  
+| [Phil](https://github.com/PhilH) | 1.75 | 0xaa01dec5307cf17f20881a3286dcaa062578cea7 |  
+| Alex | 2.28 | 0xa13Ee4362f171B5c62be230E5EB2fEe8C375b875 |  
 
 **December:**
 | Name | W3API | Address |
