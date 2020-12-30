@@ -85,29 +85,34 @@ NOTE: We'll be updating this deliverable log before each month's payout proposal
 
 ### Tech - 1.70 FTEs (318 hrs)
 
-1. [Web3API JS Client Browser Support (~90% Complete)](https://github.com/Web3-API/prototype/issues/28)  
-1. [Cross Module Dependencies (~90% Complete)](https://github.com/Web3-API/prototype/issues/41)  
-1. [Two Way Data Type Marshalling Between Client & WASM (~90% Complete)](https://github.com/Web3-API/prototype/issues/27)  
-1. [Web3API Schema Sanitization (~20% Complete)](https://github.com/Web3-API/prototype/issues/61)  
+#### Pre-Alpha Release
+1. [Ongoing - ~95% Complete](https://github.com/Web3-API/prototype/commits/prealpha-dev?since=2020-12-01&until=2020-12-31)  
+    * [Web3API JS Client Browser Support (~95% Complete)](https://github.com/Web3-API/prototype/issues/28)  
+    * [Cross Module Dependencies (~95% Complete)](https://github.com/Web3-API/prototype/issues/41)  
+    * [Two Way Data Type Marshalling Between Client & WASM (~95% Complete)](https://github.com/Web3-API/prototype/issues/27)  
+    * [Web3API Schema Sanitization (~30% Complete)](https://github.com/Web3-API/prototype/issues/61)  
 1. Weekly update call for the above deliverables
 
 ### DAO Ops - 1.50 FTEs (276 hrs)
 
-1. Bookkeeping
-1. Launch partners
-1. Fundraising
-1. Improved DAO onboarding funnel
+1. Bookkeeping ([done](https://github.com/Web3-API/dao/tree/master/token-allocations))
+1. Launch partners ([WalletConnect, Aleph](https://web3api.dev))
+1. Fundraising ([$1M Raised](https://github.com/Web3-API/dao/blob/master/token-allocations/seed-funders.csv))
+1. Improved DAO onboarding funnel (done)
+  * Builder Squads
+  * Proposal Payment Guidelines
+  * DAO Calendar
 1. Established and managed comms channels:
-    - Telegram Public Announcements Channel
-    - Telegram DAO Chat
-    - Keybase Builders Chat
-    - Substack Newsletter
-    - Twitter
+    - Telegram Public Announcements Channel ([done](https://t.me/Web3API))
+    - Telegram DAO Chat (done)
+    - Keybase Builders Chat ([done](https://keybase.io/team/web3api))
+    - Substack Newsletter ([done](https://web3api.substack.com/))
+    - Twitter ([post 1](https://twitter.com/Web3API/status/1334329732633128960), [post 2](https://twitter.com/Web3API/status/1334493482031984643), [post 3](https://twitter.com/Web3API/status/1334528479057022977), [post 4](https://twitter.com/Web3API/status/1334926240466219008), [post 5](https://twitter.com/Web3API/status/1335228105494048768), [post 6](https://twitter.com/Web3API/status/1335969624190496771), [post 7](https://twitter.com/Web3API/status/1336450609378160641), [post 8](https://twitter.com/Web3API/status/1337750411453767681), [post 9](https://twitter.com/Web3API/status/1338526995106304005), [post 10](https://twitter.com/Web3API/status/1338551006771040257), [post 11](https://twitter.com/Web3API/status/1338855809049112577), [post 12](https://twitter.com/Web3API/status/1339193358162464769), [post 13](https://twitter.com/Web3API/status/1340354581600083969), [post 14](https://twitter.com/Web3API/status/1341413349444231172), [post 15](https://twitter.com/Web3API/status/1342477872053678081), [post 16](https://twitter.com/Web3API/status/1340279203183423488))
 1. Standardized call schedule
     - Weekly DAO Ops call
     - Biweekly individual partner calls (awaiting pre-alpha)
-1. Published Web3API Problem / Solution Article
-1. Landing page changes
+1. Published Web3API Problem / Solution Article ([done](https://hackernoon.com/top-5-headaches-for-web3-developers-br1334u4))
+1. Landing page changes ([done](http://web3api.dev/))
 
 ## Fund Distribution
 All stable coins will be sent to the dOrg DAO @ 0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6.
