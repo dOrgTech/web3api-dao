@@ -1,8 +1,8 @@
 # dOrg November + December Services
 
-| Funds Requested | Time Period | Estimated Effort | Effective Rate |
-|-|-|-|-|
-| $43,050 + 215.25 `W3API` | Nov 1 - Dec 31, 2020 | 2.5 FTEs (861 hrs) | ~50 $/hr + ~0.25 `W3API`/hr |
+| Funds Requested | Time Period | Actual Effort |
+|-|-|-|
+| $31,150 + ... `W3API` | Nov 1 - Dec 31, 2020 | 713.6 hrs |
 
 ## Summary
 
@@ -83,7 +83,7 @@ NOTE: We'll be updating this deliverable log before each month's payout proposal
 
 ### December 
 
-### Tech - 1.70 FTEs (318 hrs)
+### Tech - 1.70 FTEs (167.25 hrs)
 
 #### Pre-Alpha Release
 1. [Ongoing - ~95% Complete](https://github.com/Web3-API/prototype/commits/prealpha-dev?since=2020-12-01&until=2020-12-31)  
@@ -93,7 +93,7 @@ NOTE: We'll be updating this deliverable log before each month's payout proposal
     * [Web3API Schema Sanitization (~30% Complete)](https://github.com/Web3-API/prototype/issues/61)  
 1. Weekly update call for the above deliverables
 
-### DAO Ops - 1.50 FTEs (276 hrs)
+### DAO Ops - 1.50 FTEs (279.75 hrs)
 
 1. Bookkeeping ([done](https://github.com/Web3-API/dao/tree/master/token-allocations))
 1. Launch partners ([WalletConnect, Aleph](https://web3api.dev))
